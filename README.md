@@ -1,1 +1,1 @@
-# PYTHON-projects
+These are a couple of python projects I have worked on over the time of learning the language from basics to focusing on multiple libraries and modules. Python is a vast language with full of possibilites through different methods of application. I have compiled all the codes together at once and provided detailed information(description) for each code so please do check it out for better insights.
